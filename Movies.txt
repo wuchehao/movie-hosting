@@ -1,0 +1,59 @@
+Title: The Dark Knight
+Genre: Action
+Director Name: Christopher Nolan
+Studio: Warner Bros.
+Year: 2008
+
+Title: Spirited Away  
+Genre: Fantasy  
+Director Name: Hayao Miyazaki  
+Studio: Studio Ghibli  
+Year: 2001  
+
+Title: The Hangover  
+Genre: Comedy  
+Director Name: Todd Phillips  
+Studio: Legendary Pictures  
+Year: 2009  
+
+Title: Armageddon
+Genre: Action
+Director Name: Michael Bay
+Studio: Touchstone Pictures
+Year: 1998
+
+Title: Get Out  
+Genre: Horror  
+Director Name: Jordan Peele  
+Studio: Blumhouse Productions  
+Year: 2017  
+
+Title: Interstellar  
+Genre: Fiction  
+Director Name: Christopher Nolan  
+Studio: Paramount Pictures  
+Year: 2014  
+
+Title: Toy Story  
+Genre: Animation  
+Director Name: John Lasseter  
+Studio: Pixar  
+Year: 1995  
+
+Title: Joker  
+Genre: Drama  
+Director Name: Todd Phillips  
+Studio: Warner Bros.  
+Year: 2019  
+
+Title: Pearl Harbor
+Genre: Romance
+Director Name: Michael Bay
+Studio: Touchstone Pictures
+Year: 2001
+
+Title: A Quiet Place  
+Genre: Horror  
+Director Name: John Krasinski  
+Studio: Platinum Dunes  
+Year: 2018  
